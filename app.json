@@ -1,0 +1,12 @@
+{
+  "name": "newbluecoumediaon",
+  "displayName": "newbluecoumediaon",
+  "expo": {
+    "name": "newbluecoumediaon",
+    "slug": "newbluecoumediaon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
